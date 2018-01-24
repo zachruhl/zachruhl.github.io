@@ -1,0 +1,15 @@
+
+
+h1 {border: solid 5px gray; text-align: center}
+
+h2 {border: solid 5px red; font-size: 20px; font-style: "Helvetica"; text-align: center}
+
+h5 {font-size: 20px; text-align: center}
+
+body {padding: 25px; border: solid 25px blue}
+
+ul {border: 10px solid black; width: 200px; background-color: yellow;}
+
+li {display: block; text-align: right; padding-right: 15px}
+li1 {font-size: 25px}
+ol {text-align: center}
